@@ -1,0 +1,7 @@
+{
+    "server":["******"],
+    "server_port":8388,
+    "local_port":1983,
+    "password":"******",
+    "timeout":60
+}
